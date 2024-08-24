@@ -32,7 +32,7 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-![](https://github.com/nahomtesse/web102_prework_GIF.gif)
+![GitHub GIF](https://github.com/nahomtesse/web102_prework_GIF.gif)
 
 ## Notes
 
