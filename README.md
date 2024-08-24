@@ -32,6 +32,8 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+![](https://github.com/nahomtesse/web102_prework_GIF.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
