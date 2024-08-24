@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102_prework_GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ![alt text](web102_prework_GIF.gif)
 
