@@ -208,3 +208,28 @@ const secondGameElement = document.createElement('div');
 secondGameElement.innerHTML = `<h3>${secondGame.name}</h3>` 
 
 secondGameContainer.appendChild(secondGameElement.firstChild);
+
+
+// Searching for a game in an GAMEJSON
+const search = document.getElementById("search-container");
+
+search.innerHTML = `
+    <input type="text" id="searchInput" placeholder="Search for a game..." />
+    <button id="searchBtn">Search</button>
+`;
+
+const searchBtn = document.getElementById("searchBtn");
+
+searchBtn.addEventListener('click', searchFunction);
+
+function searchFunction() {
+    const searchInput = document.getElementById("searchInput").value.toLowerCase().trim();
+    const results = GAMES_JSON.filter(game => game.name.toLowerCase().includes(searchInput));
+    displayResults(results);
+}
+
+function displayResults(results) {
+    deleteChildElements(gamesContainer);
+    
+    addGamesToPage(results);
+}
