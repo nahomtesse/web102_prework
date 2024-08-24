@@ -26,6 +26,8 @@ Here's a walkthrough of implemented features:
 
 <img src='web102_prework_GIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![alt text](web102_prework_GIF.gif)
+
 ## Notes
 
 The development of the web app proceeded smoothly, with no major issues or challenges encountered.
